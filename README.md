@@ -59,7 +59,7 @@
 - **Frontend** : React Native 0.74.2
 - **Backend** : Spring Boot 3.3.0
 - **Database** :Amazon RDS for MySQL
-- **DevOps** : AWS EC2(Docker)
+- **DevOps** : AWS EC2(Docker), S3
 - **Tools** : GitHub, PostMan, Workbench, Notion
 
 
