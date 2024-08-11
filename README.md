@@ -6,7 +6,7 @@
 
 ## 2. 프로젝트 소개
 - 팀 프로젝트
-- 팀원: 김강희, 배정현, 백송이, 설선우, 장병용, 최민석
+- 개발인원 : 4명
 - 개발 기간 : 2024. 05. 30. ~ 07. 02.
 - Travel Diary는 여행 중 유저가 챗봇과의 질답을 통해 LLM모델이 여행 기록 기반의 여행일기를 작성해주는 앱 서비스로, 작성된 여행 일기를 유저들간 공유하고 피드백을 주고 받을 수 있도록 SNS 기능을 추가하여 개발했습니다. 
 
@@ -58,7 +58,7 @@
 
 - **Frontend** : React Native 0.74.2
 - **Backend** : Spring Boot 3.3.0
-- **Database** :Amazon RDS for MySQL
+- **Database** : Amazon RDS for MySQL
 - **DevOps** : AWS EC2(Docker), S3
 - **Tools** : GitHub, PostMan, Workbench, Notion
 
